@@ -4,11 +4,11 @@
 
 Gói này chỉ chứa bản vá nhị phân (`.xdelta`), lớp hiển thị tiếng Việt và công cụ cài. **Không chứa game đầy đủ.** Bạn cần có Zoo Tycoon: Complete Collection tương thích của riêng mình. Không áp dụng cho các bản game khác: bộ cài sẽ kiểm tra SHA-256 trước khi ghi bất cứ file nào.
 
-**[Tải gói patch ZIP v1.0.2](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.2.zip)** hoặc bấm **Code → Download ZIP** trên trang repo.
+**[Tải gói patch ZIP v1.0.3](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.3.zip)** hoặc bấm **Code → Download ZIP** trên trang repo.
 
 ## Cách cài trên Windows
 
-1. Thoát game. [Tải gói patch ZIP v1.0.2](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.2.zip) và giải nén.
+1. Thoát game. [Tải gói patch ZIP v1.0.3](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.3.zip) và giải nén.
 2. Mở thư mục vừa giải nén, **chép toàn bộ nội dung bên trong** vào thư mục có `zoo.exe` của game. Giữ nguyên các thư mục `deltas`, `payload` và `third_party`.
 3. Trong thư mục game, nhấp đúp `CAI_VIET_HOA.cmd`. Chờ dòng **Cai dat hoan tat** rồi nhấn phím bất kỳ để đóng cửa sổ cài đặt.
 4. Nhấp đúp `Zoo Tycoon Viet Hoa.cmd` để chơi. Game khởi động trong cửa sổ 1024×768, không cần đổi System Locale hoặc dùng Locale Emulator.

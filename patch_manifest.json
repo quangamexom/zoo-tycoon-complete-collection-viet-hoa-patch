@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "game_exe_sha256": "61fcc6d18bdd9339b8ce1ed00ed5a9f1bffca00781266396826f6aa2d00124d5",
+  "prior_ijl15_sha256": "debb1df3e53966e025d3ac60134338d797ee3e49fc5b98947195f9dc0edc0377",
+  "proxy_ijl15_sha256": "35b2c5a5ef7eae9fdeeb2d3cb253f28df0fbca6dad322864315d7a607c07be1c",
+  "launcher_sha256": "a6d3ba7149a75a56044a21fab82ab19e56b938adca33a8830c9063a672bffef0",
+  "window": {
+    "fullscreen": 0,
+    "screenwidth": 1024,
+    "screenheight": 768
+  },
+  "patches": [
+    {
+      "path": "lang0.dll",
+      "base_sha256": "9955a4a895cc0a0358a106cce77f747dd5d39a5c5a73586656348d29f7a7390e",
+      "target_sha256": "3feb2cc745e699f1c658766e2132ec86b445432fbfe7e41f8a0ba458eecea68f",
+      "delta_sha256": "952c0e43412c17ded2de4bcb11c9c392dee941936776fd001ab558356f8c1dc9"
+    },
+    {
+      "path": "lang001.dll",
+      "base_sha256": "362282ef957404b3cafa03cfd46f54fb64e6b583c24c51321c65c214c419b59b",
+      "target_sha256": "4c8330b9bab9ae664d0c68b1617757428b6e96f2e5bda3d2639c7c6c045a1394",
+      "delta_sha256": "160a50295b72348b25cd0d4b1c0e2e71c8ccf63dc2e4c8da4f6572a4f53097cd"
+    },
+    {
+      "path": "lang002.dll",
+      "base_sha256": "9e7007087da0d5b56397b0ef144060d66f862a356000e6c7387dec1c83634f14",
+      "target_sha256": "cba827efca10fecedd2299f247b872a1e9e266c30f9ee7e008a8c3f90ba91c33",
+      "delta_sha256": "b309da427663e87415afdcb14904fcbc3d01dcf8e04364a6121137390f47fa12"
+    },
+    {
+      "path": "lang007.dll",
+      "base_sha256": "32f6c588434440e8b699f8aa0dac14e8c69dc1fc8437256c7278ac8995bd130a",
+      "target_sha256": "14929fe225cda8ff2c1cc569c9577cc4096a7e860009ccddfc7fe0eb2d97ff9b",
+      "delta_sha256": "35a6849a72bf587beaf2e1cdb6950c9420075c0f2c795217da14ba89bbbb5a80"
+    },
+    {
+      "path": "lang008.dll",
+      "base_sha256": "ba1a543a4c9cc00083734bd1d5353d6c211bb75b23969e6dc1df7c5e3dbec135",
+      "target_sha256": "deac4b592adc49cce95360ad7ecc355d641ec3018ff705e23fdbfb45669af535",
+      "delta_sha256": "d6c2ba001d17ad421eb5a1efb4218a9b834804e7d2b60fe1be43bf1c828d6690"
+    },
+    {
+      "path": "lang009.dll",
+      "base_sha256": "3f44e41a3e3ccf76e966b9c5c68535c411b377da87f4176456fd5e0324b3c46c",
+      "target_sha256": "0a08640b2fd67879cb19c4547aa1e53ae06b60da91e5eccc56e52fcb9370576e",
+      "delta_sha256": "c59adcc40e5f2a317b1817adcbc7edb477906bb780c8479b88efa62cf5377404"
+    },
+    {
+      "path": "lang010.dll",
+      "base_sha256": "4056b5f7d9cd9deda7a742d5b0357e84ba5976987ec7c022e82e2c1c811d00d5",
+      "target_sha256": "68e05ac5865e23034f6533bae3e4b846dc8c80a30c3911fcd8bc859cb302eea2",
+      "delta_sha256": "ba8a408e523fde31c04d3c5ddfea3f6f8e065cdedab99a12e2930d53bc685eb9"
+    },
+    {
+      "path": "lang012.dll",
+      "base_sha256": "0d32dafb99bdc9db4823c0c21cf7cc11c05f773ec08ddbb4d0e95ac75dc931dd",
+      "target_sha256": "bfa3492b0720b7527d034306df6f0ceb807b76dfbab34ba774fe50540bee770b",
+      "delta_sha256": "f18c9f8ebf29c9b0614bc214966a9e5bb51ca32168668a723479930cb88a6a6d"
+    },
+    {
+      "path": "lang013.dll",
+      "base_sha256": "b61566c03486e4e6b335560f8fabbb3222d5a26f49506bf85a58a189e3546dc3",
+      "target_sha256": "7f80b5e02780d1db65d54b3a32fb4f6a5c75c6d32c40ecd29b0347d1c9c5cfb5",
+      "delta_sha256": "8c13686ed7c42c94f07533b49f1e5a696b7a4d2b1cffeb85a8a7ba262b1da17c"
+    },
+    {
+      "path": "lang015.dll",
+      "base_sha256": "5cebc61577d1ce72b3d135d742cff3e2aecbdf70241262ff8f921b5cd96e909b",
+      "target_sha256": "d4196096b269cb36e3396b98cf23b0c1e74c94d1cd5e4db8f95fe388a5837b6f",
+      "delta_sha256": "19e3d3e0a8b5101f4bf52f1d83a9eae3fe5e9f2581ee15b3faca7ab61efd596b"
+    },
+    {
+      "path": "lang016.dll",
+      "base_sha256": "4867640c2ed8429808cfc6e1a64b704be71dafdb7dec79bc755eee29a29a722b",
+      "target_sha256": "b2981b345322cd8dea5567be4a851c1f19fd2f91c3fe456855cbf7361f8d8c2e",
+      "delta_sha256": "837dd550ccf42193bd817d0481397985e22f0f7765baae5d7f926c25d30fa8db"
+    },
+    {
+      "path": "lang017.dll",
+      "base_sha256": "f6bccc7f4b09eb5e268fa443fad69892bcb8f9614ff392ff061b71d0610ef29d",
+      "target_sha256": "68c57469c25446c498d716677730deff2066eefb1335915946e1180251dd998d",
+      "delta_sha256": "bf194b656339766b9cc77be91e5b41d7ed8c527e0651019babe6c7ea00c2554f"
+    },
+    {
+      "path": "lang018.dll",
+      "base_sha256": "aee20a71c908457ae9d7ea0c861ac414e42b28f878cfc1eb742c9ffdfc740d5f",
+      "target_sha256": "9e19a17e2db8d782305dc8e5766ddbe5448f3c75bfecf03dd57c9a0a70e7bb3e",
+      "delta_sha256": "236eda85184999dceb46c42a70f04e7baa98a618c2742e6e5e7bea7f621017a2"
+    },
+    {
+      "path": "lang019.dll",
+      "base_sha256": "f4d6f618c573f0e2d182e7a3435ef4879a40b63a7f516bc7b5585bcc0b6daf6e",
+      "target_sha256": "f5f6e772ad3529b963126418345bc62f935f41103309be3df32b7f25571d291c",
+      "delta_sha256": "6b699c7d9f69e83dbe507abae2ee2fe56784eed7b6970e7ce0d80d7835334d78"
+    },
+    {
+      "path": "lang020.dll",
+      "base_sha256": "393f9f00d9835dbebc82fbfbee1e96d375dcc4d4f9582c9a0b57ce1a3ef97a11",
+      "target_sha256": "fbd9a0c4fcb4913e3689aa18576dac2b544d5a28f5d65103a79f764e5a674806",
+      "delta_sha256": "a030688e6c99c2cb54041c5a770fdc4f415535b2814bd6a14cabf7966156f095"
+    },
+    {
+      "path": "lang021.dll",
+      "base_sha256": "0e48c5b6a74d89cebc4d759976a26104d474832fecaa95f1293b36bebc479a87",
+      "target_sha256": "824ccb85e87cf45293cdf1a4bf1f182fff9b9dd17655a1f7622c0071446ed56e",
+      "delta_sha256": "5b555c102bd5d425ad4bed93576d278658d03b9350d16c5bacf8ea199640b34b"
+    },
+    {
+      "path": "lang100.dll",
+      "base_sha256": "b9e8f32cdc76c7066677144153a039ce80a786ae601bc737b9b94f224e360754",
+      "target_sha256": "71281f473813b06767f0bbbc154ad4b79589795e24c3532c1806470a66894a0c",
+      "delta_sha256": "bc8bdad3b07d819cc70880db3816dc1b63b09d77aaa530ae5507229d0c8f26dc"
+    },
+    {
+      "path": "lang200.dll",
+      "base_sha256": "5fc5259c06905dd4baae00ce8eebd4979b5e4b6ac286ddffaa82f24565681dfa",
+      "target_sha256": "0bf9944e4beda9b38eea6eab0d47e4c9d897a07294b4bdd6f9e2c6767656a190",
+      "delta_sha256": "490bfe752012efd749201a7d3fd248c5bd660d2d56b01ad95df85c4e837c5f11"
+    },
+    {
+      "path": "lang300.dll",
+      "base_sha256": "01950457fb121599a8d1ca533e917495701c38a5905d8ad1d1114f9f66e7e3b2",
+      "target_sha256": "26d25037d6b8679d24e225898891d3add8ae3029d058fd1edf2942829590a1a0",
+      "delta_sha256": "04f55ce25b0eed94c8d51127ea89529eb69338d791e80dcb2f073dd4fcedae85"
+    },
+    {
+      "path": "freeform.ztd",
+      "base_sha256": "c87533e9ae854a20e37afaf54123e58e0f346e0e5042b25163e8eb2f4d5e12aa",
+      "target_sha256": "86743118ccc25cfe125cacb6b414deef9d955dc59df26a4ec1addad830a0de68",
+      "delta_sha256": "5c778e3bab1a08516067fa59129bd434aa5e1f1f0fbb053ccc78b09c27875161"
+    },
+    {
+      "path": "scenario.ztd",
+      "base_sha256": "9449eb29aa3f117fa4ce7ec260d7c7ca20e3e9bca5a29b8f6c22108d54e8e15c",
+      "target_sha256": "e920db72295cc435dfe669479c1c28d5b16ec0bd3deb0c3a5fbbf90681354d6f",
+      "delta_sha256": "69a0d13f0018fc1525f3fd8492174f65cb806c5c5c6df984dc3a7b68b9073bbc"
+    },
+    {
+      "path": "ui.ztd",
+      "base_sha256": "ad79b0e7706298f603e31f224747552a475c896a9c8335071b51f539d46e0ca4",
+      "target_sha256": "f69b189d2900a97c465ec1388b3c19c1901146d6e96f29892c76ec521a7ce072",
+      "delta_sha256": "5de13480151ebe080665717728fb8adae1e336347b4be266fcf8aede23c54a80"
+    },
+    {
+      "path": "Updates/scn40.ztd",
+      "base_sha256": "fbe2e89100e3242f473f1935a6479ec828292a510f8175fd9186a4163b26df14",
+      "target_sha256": "3fb83aecf0d142e3b61a45347755898212102977aac2da533252a96811a53213",
+      "delta_sha256": "62da59ec6d16e66b3bef137cabf058d8c368e1a464e1e991c1306c229d98c295"
+    },
+    {
+      "path": "Updates/yeti.ztd",
+      "base_sha256": "30ee4b3e57449729bcbb0934937d22bf3e9e46bfc4d3f505a8702fe44628856d",
+      "target_sha256": "bbe3092b75744decca5eb8cbb96b3c3e8562a9dc42d28c53e9a060465c9943a5",
+      "delta_sha256": "0ab592656805aaa75e045d4a0cdaf3ae680b7d8ed2a2b3fc08f0b7f8de09ea25"
+    },
+    {
+      "path": "XPACK1/freefrm3.ztd",
+      "base_sha256": "98ff3e435f2faf8a72d7ad9baa921e2693afd9bb73a5d7bfd9bcc698e20b8dea",
+      "target_sha256": "162e64c7fa2b1e92e7824c1c1ca03072afb5b4f1afd56bed45929b69b0e57a96",
+      "delta_sha256": "31122bd2d7299405b550649f3690f4bfbe8ebad104b04149f91b7477ebf75944"
+    },
+    {
+      "path": "XPACK1/scenari3.ztd",
+      "base_sha256": "3b244f0d2add12012090eb5a5d2974986739009e3e7c6a5091c2f007731b2a8c",
+      "target_sha256": "3728d8b340d9766916f4e027e9d5a605f0c18f6fb578b06c57cd96c38d32f6c6",
+      "delta_sha256": "eb7a1541f3381e89c1f1039998d1bd73e3045f5e6ae001b17a075feedd692abf"
+    },
+    {
+      "path": "XPACK1/ui3.ztd",
+      "base_sha256": "b5cb4c1c461d3c8f4384bbac53c606cbb3d64ef7a6754ba714abdd7e9d77d495",
+      "target_sha256": "662df0e52f1c6205bd94e447715d936373f63c4c0d3fef3ad4497d9ffe611388",
+      "delta_sha256": "b231d147dd13d20442b3f416f95a754f4eb41372b4f0f65dfdcf943aa479775e"
+    },
+    {
+      "path": "XPACK2/freefrm6.ztd",
+      "base_sha256": "060db7b4f131fe6859f989e4eb4b98e6784986002e7649ce72aceff88864cd1d",
+      "target_sha256": "1b7b3123f8d1b40b634f588d7ebc70f37c8f18e44ef9d02aa335cf68d5610e40",
+      "delta_sha256": "aa774dca1ead38d99d1e32368b24a22b3ccf17cb7ead532c3eccf228e1244a99"
+    },
+    {
+      "path": "XPACK2/scenari6.ztd",
+      "base_sha256": "c6cefc246ebf46aca5484dc77afb6ee0fe035f08c2bb418626d2b4ca00a28c57",
+      "target_sha256": "af0a68f6c47f406fc085e74d002774b74d9b9a08b329729d8ae8a08e61e13a31",
+      "delta_sha256": "f279e9505c2a568b3ec3df25c66295439e11927a1ebd366da9f015831ec3cd71"
+    },
+    {
+      "path": "XPACK2/ui6.ztd",
+      "base_sha256": "235a6b6fd00129776e016a7b5a00fdeff78db958de09be5e04125a54276b67dd",
+      "target_sha256": "c59fba01c9e76c195af6dc7c083e436b6d62279140e2b70d6332176dde4ebed8",
+      "delta_sha256": "4fa2b755356fe00a0562821c8039b339ef21bc39bbbd49b333fe5cd244084829"
+    }
+  ]
+}

@@ -6,6 +6,18 @@ Gói này chỉ chứa bản vá nhị phân (`.xdelta`), lớp hiển thị ti�
 
 **[Tải gói patch ZIP v1.0.3](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.3.zip)** hoặc bấm **Code → Download ZIP** trên trang repo.
 
+## Hình ảnh Việt hóa
+
+| Menu chính | Hướng dẫn và mục tiêu |
+| --- | --- |
+| <img src="showcase/12-menu-chinh.png" alt="Menu chính tiếng Việt" width="420"> | <img src="showcase/08-huong-dan-kich-ban.png" alt="Hướng dẫn và mục tiêu tiếng Việt" width="420"> |
+
+| Bách khoa động vật | Chọn bản đồ |
+| --- | --- |
+| <img src="showcase/03-bach-khoa-hai-ma.jpg" alt="Bách khoa Hải mã Thái Bình Dương" width="420"> | <img src="showcase/01-chon-ban-do.png" alt="Danh sách và mô tả bản đồ tiếng Việt" width="420"> |
+
+[Xem đủ 15 ảnh showcase](showcase/README.md).
+
 ## Cách cài trên Windows
 
 1. Thoát game. [Tải gói patch ZIP v1.0.3](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.3.zip) và giải nén.

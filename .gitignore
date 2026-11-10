@@ -2,3 +2,4 @@
 *.log
 BACKUP_*/
 _staged/
+third_party/*exe.zip

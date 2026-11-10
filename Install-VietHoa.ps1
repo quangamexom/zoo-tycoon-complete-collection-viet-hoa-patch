@@ -1,11 +1,12 @@
 ﻿param(
     [Parameter(Mandatory = $true)][string]$GameDir,
-    [string]$XdeltaPath = 'xdelta3.exe'
+    [string]$XdeltaPath = ''
 )
 
 $ErrorActionPreference = 'Stop'
 $root = (Resolve-Path -LiteralPath $GameDir).Path
 $manifest = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'patch_manifest.json') -Raw -Encoding UTF8 | ConvertFrom-Json
+if (-not $XdeltaPath) { $XdeltaPath = Join-Path $PSScriptRoot 'third_party/xdelta3.exe' }
 $xdelta = (Get-Command $XdeltaPath -ErrorAction Stop).Source
 
 function Hash([string]$path) {

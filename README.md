@@ -4,6 +4,8 @@
 
 Gói này chỉ chứa bản vá nhị phân (`.xdelta`), lớp hiển thị tiếng Việt và công cụ cài. **Không chứa game đầy đủ.** Bạn cần có Zoo Tycoon: Complete Collection tương thích của riêng mình. Không áp dụng cho các bản game khác: bộ cài sẽ kiểm tra SHA-256 trước khi ghi bất cứ file nào.
 
+**[Tải gói patch ZIP v1.0.0](https://github.com/quangamexom/zoo-tycoon-complete-collection-viet-hoa-patch/archive/refs/tags/v1.0.0.zip)** hoặc bấm **Code → Download ZIP** trên trang repo.
+
 ## Cách cài trên Windows
 
 1. Thoát game. Sao lưu toàn bộ thư mục game nếu bạn muốn có thêm một bản dự phòng.

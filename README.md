@@ -26,7 +26,6 @@ Bộ cài **không sửa `zoo.exe`**. Nó tạo `BACKUP_BEFORE_VIET_HOA_<ngày g
 - Menu, bản đồ, tooltip, thông báo, hướng dẫn, kịch bản và bách khoa tiếng Việt theo các bảng dịch đã được kiểm tra.
 - Lớp hiển thị Unicode cho dấu tiếng Việt; xử lý tên bản đồ và tên thú của một số bản lưu cũ.
 - Mặc định cửa sổ 1024×768; zoom cảnh trong game chỉnh bằng nút `+` cạnh bản đồ nhỏ.
-- Dòng “VIỆT HÓA BY QUÁN GAME XÓM” trên hình mở đầu.
 
 Một số tên riêng, chữ nằm trong ảnh và nội dung hiếm gặp có thể còn nguyên bản gốc. Nếu gặp lỗi, gửi ảnh, tên file save và màn hình đang mở để tái hiện.
 
